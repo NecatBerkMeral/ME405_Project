@@ -1,3 +1,4 @@
+# Note: TJIS README WAS PRODUCED VIA AI.
 # Physics-Informed Non-Invasive Tool Wear Classification in CNC Milling
 
 [[https://img.shields.io/badge/python-3.8+-blue.svg]](https://www.python.org/downloads/)
