@@ -54,12 +54,3 @@ This repository implements a **strictly non-invasive, physics-informed machine l
 - **Feature Dominance:** Standardized coefficients confirm that motor electrical signals heavily govern decisions (average $\vert{}w\vert{} = 1.18$) compared to raw process kinematics (average $\vert{}w\vert{} = 0.45$).
 
 ---
-
-## 📁 Repository Structure
-
-```text
-├── ME405 Proje.ipynb              # Complete end-to-end reproducible Jupyter Notebook
-├── Interim_Report_ME405.pdf       # Formal 2-page academic interim report
-├── requirements.txt               # Required Python packages
-├── .gitignore                     # Git ignore rules (excludes large mill.mat data)
-└── README.md                      # Project documentation and summary
